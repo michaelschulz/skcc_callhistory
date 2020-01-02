@@ -1,4 +1,4 @@
-call,name,state,skccnr
+!!Order!!,Call,Name,Exch1,Misc
 KC9ECI,Tom,WI,1
 KI4CIA,Melinda,AL,2C
 N6WK,Gordon,CA,3S
